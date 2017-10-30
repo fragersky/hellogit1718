@@ -68,5 +68,12 @@
         <email>karol_s16@interia.pl</email>
         <github>karolskoczyk</github>
         <group>KrDZIs3011Si</group>
+	</student
+	<student>
+	<firstname>Wojciech</firstname>
+	<lastname>Chajdas</lastname>
+	<email>chajdas@gmail.com</email>
+	<github>WojtekCha</github>
+	<group>KrDZIs3011Si</group>
     </student>
 </students>
