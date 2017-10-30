@@ -14,13 +14,68 @@
         <github>Fiona84</github>
         <group>Teacher</group>
     </student>
+
      <student>
         <firstname>Mateusz</firstname>
         <lastname>Kusal</lastname>
         <email>mati95k@gmail.com</email>
         <github>mizzi26</github>
         <group>student</group>
+
+    <student>
+        <firstname>Karol</firstname>
+        <lastname>Tarlowski</lastname>
+        <email>karolkt1@wp.pl</email>
+        <github>karolkt1</github>
+        <group>Students</group>
+    </student>
+    <student>
+        <firstname>Vlada</firstname>
+        <lastname>Yanishevska</lastname>
+        <email>wladajan@gmail.com</email>
+        <github>wladajan</github>
+        <group>Student</group>
+    </student>
+    <student>
+        <firstname>Adam</firstname>
+        <lastname>Widła</lastname>
+        <email>adamek155@gmail.com</email>
+        <github>Mamut96</github>
+        <group>KrdzIs3012Si</group>
+    </student>
+    <student>
+        <firstname>Paweł</firstname>
+        <lastname>Tomkiewicz</lastname>
+        <email>pawtomk@gmail.com</email>
+        <github>pawelt7</github>
+        <group>Student</group>
+    </student>
+    <student>
+        <firstname>Dawid</firstname>
+        <lastname>Wasilewski</lastname>
+        <email>dawid.wasilewski96@gmail.com</email>
+        <github>dawidppv</github>
+        <group>Student</group>
+    </student>
+    <student>
+        <firstname>Maciej</firstname>
+        <lastname>Szewczyk-Jachym</lastname>
+        <email>macszewczyk@wp.pl</email>
+        <github>macszewczyk</github>
+    </student>
+    <student>
+        <firstname>Ernest</firstname>
+        <lastname>Rogala</lastname>
+        <email>ernestrogal@gmail.com</email>
+        <github>FamousNest</github>
+        <group>Student</group>
+    </student>
+    <student>
+        <firstname>Karol</firstname>
+        <lastname>Skoczyk</lastname>
+        <email>karol_s16@interia.pl</email>
+        <github>karolskoczyk</github>
+        <group>KrDZIs3011Si</group>
+
     </student>
 </students>
-
-
