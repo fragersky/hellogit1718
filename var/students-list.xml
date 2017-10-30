@@ -62,4 +62,11 @@
         <github>FamousNest</github>
         <group>Student</group>
     </student>
+	    <student>
+        <firstname>Mateusz</firstname>
+        <lastname>Brożek</lastname>
+        <email>matibro1996@gmail.com</email>
+        <github>matibro96</github>
+        <group>KrDZIs3011Si</group>
+    </student>
 </students>
