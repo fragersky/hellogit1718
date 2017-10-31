@@ -49,6 +49,13 @@
         <github>dawidppv</github>
         <group>Student</group>
     </student>
+        <student>
+        <firstname>Mateusz</firstname>
+        <lastname>Sajler</lastname>
+        <email>mateusz.sajler@gmail.com</email>
+        <github>Siilveer</github>
+        <group>KrDzIs3012Si</group>
+    </student>
     <student>
         <firstname>Maciej</firstname>
         <lastname>Szewczyk-Jachym</lastname>
