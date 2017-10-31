@@ -76,4 +76,11 @@
         <github>karolskoczyk</github>
         <group>KrDZIs3011Si</group>
     </student>
+	<student>
+        <firstname>Marek</firstname>
+        <lastname>Kopeć</lastname>
+        <email>marek.kopec95@gmail.com</email>
+        <github>Destrukcja95</github>
+        <group>KrDZIs3012Si</group>
+    </student>
 </students>
