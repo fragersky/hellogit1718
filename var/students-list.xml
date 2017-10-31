@@ -83,4 +83,12 @@
         <github>karolskoczyk</github>
         <group>KrDZIs3011Si</group>
     </student>
+    
+    <student>
+        <firstname>Arek</firstname>
+        <lastname>Hadała</lastname>
+        <email>arkadiusz.hadala@wp.pl</email>
+        <github>fragersky</github>
+        <group>KrDZIs3012Si</group>
+    </student>
 </students>
