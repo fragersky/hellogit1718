@@ -14,13 +14,20 @@
         <github>Fiona84</github>
         <group>Teacher</group>
     </student>
+    <student>
+        <firstname>Beniamin</firstname>
+        <lastname>Bieniek</lastname>
+        <email>beniaminbieniek@gmail.com</email>
+        <github>1bendzi</github>
+        <group>KrDZIs3012Si</group>   
+    </student>
      <student>
         <firstname>Mateusz</firstname>
         <lastname>Kusal</lastname>
         <email>mati95k@gmail.com</email>
         <github>mizzi26</github>
         <group>student</group>
-
+    </student>
     <student>
         <firstname>Karol</firstname>
         <lastname>Tarlowski</lastname>
