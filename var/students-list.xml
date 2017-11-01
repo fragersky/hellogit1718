@@ -14,7 +14,6 @@
         <github>Fiona84</github>
         <group>Teacher</group>
     </student>
-
      <student>
         <firstname>Mateusz</firstname>
         <lastname>Kusal</lastname>
@@ -104,34 +103,34 @@
         <email>karol_s16@interia.pl</email>
         <github>karolskoczyk</github>
         <group>KrDZIs3011Si</group>
-	</student
-	<student>
-	<firstname>Wojciech</firstname>
-	<lastname>Chajdas</lastname>
-	<email>chajdas@gmail.com</email>
-	<github>WojtekCha</github>
-	<group>KrDZIs3011Si</group>
+	  </student
+	  <student>
+	     <firstname>Wojciech</firstname>
+	      <lastname>Chajdas</lastname>
+	      <email>chajdas@gmail.com</email>
+	      <github>WojtekCha</github>
+        <group>KrDZIs3011Si</group>
     </student>
     <student>
-	    <firstname>Ewelina</firstname>
-	    <lastname>Machnik</lastname>
-	    <email>ewelina.machnik@gmail.com</email>
-	    <github>ewemac</github>
-	    <group>KrDZIs3011Si</group>
+	      <firstname>Ewelina</firstname>
+	      <lastname>Machnik</lastname>
+	      <email>ewelina.machnik@gmail.com</email>
+	      <github>ewemac</github>
+	      <group>KrDZIs3011Si</group>
    </student>
    <student>
-	    <firstname>Bartlomiej</firstname>
-	    <lastname>Odrobina</lastname>
-	    <email>bartekodrobina@gmail.com</email>
-	    <github>s194157</github>
-	    <group>KrDZIs3011Si</group>
+	      <firstname>Bartlomiej</firstname>
+	      <lastname>Odrobina</lastname>
+	      <email>bartekodrobina@gmail.com</email>
+	      <github>s194157</github>
+	      <group>KrDZIs3011Si</group>
     </student>
     <student>
-	    <firstname>Konrad</firstname>
-	    <lastname>Marszalek</lastname>
-	    <email>komcio96@gmail.com</email>
-	    <github>komak4</github>
-	    <group>KrDzIs3011Si</group>
+	      <firstname>Konrad</firstname>
+	      <lastname>Marszalek</lastname>
+	      <email>komcio96@gmail.com</email>
+	      <github>komak4</github>
+	      <group>KrDzIs3011Si</group>
     </student>
     <student>
         <firstname>Patryk</firstname>
@@ -147,5 +146,11 @@
         <github>tipi69</github>
         <group>KrDZIs3011Si</group>
     </student>
-
+    <student>
+        <firstname>Kamil</firstname>
+        <lastname>Adamkiewicz</lastname>
+        <email>kamil569@gmail.com</email>
+        <github>kkamil96</github>
+        <group>KrDZIs3011Si</group>
+    </student>
 </students>
