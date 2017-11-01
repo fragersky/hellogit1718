@@ -153,4 +153,11 @@
         <github>kkamil96</github>
         <group>KrDZIs3011Si</group>
     </student>
+    <student>
+	<firstname>Łukasz</firstname>
+	<lastname>Popek</lastname>
+	<email>dilax@linuxmail.org</email>
+	<github>dilax69</github>
+	<group>Student</group>
+    </student>
 </students>
