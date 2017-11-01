@@ -63,7 +63,7 @@
         <github>dawidppv</github>
         <group>Student</group>
     </student>
-        <student>
+    <student>
         <firstname>Mateusz</firstname>
         <lastname>Sajler</lastname>
         <email>mateusz.sajler@gmail.com</email>
@@ -83,7 +83,7 @@
         <github>FamousNest</github>
         <group>Student</group>
     </student>
-	    <student>
+    <student>
         <firstname>Mateusz</firstname>
         <lastname>Brożek</lastname>
         <email>matibro1996@gmail.com</email>
@@ -104,7 +104,7 @@
         <github>MaciejDominik</github>
         <group>Student</group>
     </student>
-	  <student>
+    <student>
         <firstname>Jarosław</firstname>
         <lastname>Starmach</lastname>
         <email>l2extremel2@gmail.com</email>
@@ -117,34 +117,34 @@
         <email>karol_s16@interia.pl</email>
         <github>karolskoczyk</github>
         <group>KrDZIs3011Si</group>
-	  </student
-	  <student>
-	     <firstname>Wojciech</firstname>
-	      <lastname>Chajdas</lastname>
-	      <email>chajdas@gmail.com</email>
-	      <github>WojtekCha</github>
+    </student>
+    <student>
+	<firstname>Wojciech</firstname>
+	<lastname>Chajdas</lastname>
+	<email>chajdas@gmail.com</email>
+	<github>WojtekCha</github>
         <group>KrDZIs3011Si</group>
     </student>
     <student>
-	      <firstname>Ewelina</firstname>
-	      <lastname>Machnik</lastname>
-	      <email>ewelina.machnik@gmail.com</email>
-	      <github>ewemac</github>
-	      <group>KrDZIs3011Si</group>
+	 <firstname>Ewelina</firstname>
+	 <lastname>Machnik</lastname>
+	 <email>ewelina.machnik@gmail.com</email>
+	 <github>ewemac</github>
+	 <group>KrDZIs3011Si</group>
    </student>
    <student>
-	      <firstname>Bartlomiej</firstname>
-	      <lastname>Odrobina</lastname>
-	      <email>bartekodrobina@gmail.com</email>
-	      <github>s194157</github>
-	      <group>KrDZIs3011Si</group>
+	 <firstname>Bartlomiej</firstname>
+	 <lastname>Odrobina</lastname>
+	 <email>bartekodrobina@gmail.com</email>
+	 <github>s194157</github>
+	 <group>KrDZIs3011Si</group>
     </student>
     <student>
-	      <firstname>Konrad</firstname>
-	      <lastname>Marszalek</lastname>
-	      <email>komcio96@gmail.com</email>
-	      <github>komak4</github>
-	      <group>KrDzIs3011Si</group>
+	 <firstname>Konrad</firstname>
+	 <lastname>Marszalek</lastname>
+	 <email>komcio96@gmail.com</email>
+	 <github>komak4</github>
+	 <group>KrDzIs3011Si</group>
     </student>
     <student>
         <firstname>Patryk</firstname>
@@ -174,32 +174,33 @@
 	<github>dilax69</github>
 	<group>Student</group>
     </student>
-	<student>
+    <student>
         <firstname>Marek</firstname>
         <lastname>Kopeć</lastname>
         <email>marek.kopec95@gmail.com</email>
         <github>Destrukcja95</github>
         <group>KrDZIs3012Si</group>
     </student>
-	 <student>
+    <student>
         <firstname>Kamil</firstname>
         <lastname>Roganowicz</lastname>
         <email>kamil.kr@poczta.fm</email>
         <github>s194506</github>
         <group>KrDZIs3012Si</group>
     </student>
-	 <student>
+    <student>
         <firstname>Radosław</firstname>
         <lastname>Nicieja</lastname>
         <email>radoslawnicieja@gmail.com</email>
         <github>radeknic</github>
         <group>KrDZIs30112i</group>
     </student>
+    <student>
+	<firstname>Marcin</firstname>
+	<lastname>Majchrowicz</lastname>
+	<email>razdwacztery2@o2.pl</email>
+	<github>MajchrowcziMarcin</github>
+	<group>KrDZIs3012Si</group>
+    </student>
 </students>
-	<student>
-		<firstname>Marcin</firstname>
-		<lastname>Majchrowicz</lastname>
-		<email>razdwacztery2@o2.pl</email>
-		<github>MajchrowcziMarcin</github>
-		<group>KrDZIs3012Si</group>
-	</student>
+	
