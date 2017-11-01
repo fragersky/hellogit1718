@@ -167,4 +167,11 @@
 	<github>dilax69</github>
 	<group>Student</group>
     </student>
+	<student>
+        <firstname>Marek</firstname>
+        <lastname>Kopeć</lastname>
+        <email>marek.kopec95@gmail.com</email>
+        <github>Destrukcja95</github>
+        <group>KrDZIs3012Si</group>
+    </student>
 </students>
