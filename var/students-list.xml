@@ -63,6 +63,13 @@
         <group>Student</group>
     </student>
     <student>
+        <firstname>Ewa</firstname>
+        <lastname>Bąk</lastname>
+        <email>ewa.j.bak@gmail.com</email>
+        <github>ewabak</github>
+        <group>Student</group>
+    </student>
+    <student>
         <firstname>Maciej</firstname>
         <lastname>Dominik</lastname>
         <email>maciejdominik94@gmail.com</email>
