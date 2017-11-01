@@ -91,6 +91,13 @@
         <group>KrDZIs3011Si</group>
     </student>
     <student>
+	    <firstname>Ewelina</firstname>
+	    <lastname>Machnik</lastname>
+	    <email>ewelina.machnik@gmail.com</email>
+	    <github>ewemac</github>
+	    <group>KrDZIs3011Si</group>
+   </student>
+   <student>
 	    <firstname>Bartlomiej</firstname>
 	    <lastname>Odrobina</lastname>
 	    <email>bartekodrobina@gmail.com</email>
