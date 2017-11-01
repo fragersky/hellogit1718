@@ -70,6 +70,13 @@
         <github>FamousNest</github>
         <group>Student</group>
     </student>
+	    <student>
+        <firstname>Mateusz</firstname>
+        <lastname>Brożek</lastname>
+        <email>matibro1996@gmail.com</email>
+        <github>matibro96</github>
+        <group>KrDZIs3011Si</group>
+    </student>
     <student>
         <firstname>Ewa</firstname>
         <lastname>Bąk</lastname>
@@ -97,7 +104,6 @@
         <email>karol_s16@interia.pl</email>
         <github>karolskoczyk</github>
         <group>KrDZIs3011Si</group>
-
     </student>
     <student>
 	    <firstname>Ewelina</firstname>
@@ -127,5 +133,4 @@
         <github>paczek303</github>
         <group>KrDZIs3011Si</group>
     </student>
-
 </students>
