@@ -14,6 +14,14 @@
         <github>Fiona84</github>
         <group>Teacher</group>
     </student>
+
+     <student>
+        <firstname>Mateusz</firstname>
+        <lastname>Kusal</lastname>
+        <email>mati95k@gmail.com</email>
+        <github>mizzi26</github>
+        <group>student</group>
+
     <student>
         <firstname>Karol</firstname>
         <lastname>Tarlowski</lastname>
@@ -89,6 +97,7 @@
         <email>karol_s16@interia.pl</email>
         <github>karolskoczyk</github>
         <group>KrDZIs3011Si</group>
+
     </student>
     <student>
 	    <firstname>Ewelina</firstname>
