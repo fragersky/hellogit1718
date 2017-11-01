@@ -90,10 +90,18 @@
         <github>karolskoczyk</github>
         <group>KrDZIs3011Si</group>
     </student>
-    <studenci>
-	<firstname>Konrad</firstname>
-	<lastname>Marszalek</lastname>
-	<email>komcio96@gmail.com</email>
-	<github>komak4</github>
-	<group>KrDzIs3011Si</group>
+    <student>
+	    <firstname>Bartlomiej</firstname>
+	    <lastname>Odrobina</lastname>
+	    <email>bartekodrobina@gmail.com</email>
+	    <github>s194157</github>
+	    <group>KrDZIs3011Si</group>
+    </student>
+    <student>
+	    <firstname>Konrad</firstname>
+	    <lastname>Marszalek</lastname>
+	    <email>komcio96@gmail.com</email>
+	    <github>komak4</github>
+	    <group>KrDzIs3011Si</group>
+    </student>
 </students>
