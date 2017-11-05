@@ -21,7 +21,14 @@
         <github>1bendzi</github>
         <group>KrDZIs3012Si</group>   
     </student>
-     <student>
+    <student>
+        <firstname>Jakub</firstname>
+        <lastname>Maka</lastname>
+        <email>widmox1@gmail.com</email>
+        <github>widmox</github>
+        <group>KrDZIs3011Si</group>   
+    </student>
+    <student>
         <firstname>Mateusz</firstname>
         <lastname>Kusal</lastname>
         <email>mati95k@gmail.com</email>
